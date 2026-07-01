@@ -3,6 +3,11 @@
 ## Overview
 Conway's Game of Life is a cellular automaton devised by John Horton Conway in 1970. It is a zero-player game, meaning its evolution is determined by its initial state, requiring no further input. The game is implemented in emu8086 assembly for a project in Computer Architecture. It uses interrupts to handle text-based graphical output and simulate the game's evolution based on simple rules.
 
+## Demo
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=1zDMyD-KbNI" target="_blank">
+ <img src="http://img.youtube.com/vi/1zDMyD-KbNI/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
+</a>
+
 ## Project Description
 
 ### Rules
